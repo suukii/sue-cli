@@ -1,0 +1,20 @@
+{
+    "name": "@suukii/sue-cli",
+    "version": "0.0.1-beta",
+    "description": "",
+    "main": "index.js",
+    "bin": {
+        "sue": "./bin/cli.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 0"
+    },
+    "author": "suukii",
+    "license": "ISC",
+    "dependencies": {
+        "@suukii/ginit": "0.0.2",
+        "download-git-repo": "^3.0.2",
+        "lodash": "^4.17.20",
+        "minimist": "^1.2.5"
+    }
+}
