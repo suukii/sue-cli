@@ -1,6 +1,6 @@
 {
     "name": "@suukii/sue-cli",
-    "version": "0.0.1-beta",
+    "version": "0.0.1",
     "description": "",
     "main": "index.js",
     "bin": {
